@@ -27,3 +27,6 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
+RESTApiServer/backup/
+.DS_Store
+make_prompt/
